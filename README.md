@@ -1,8 +1,7 @@
 # memory-match-pro
 A high-performance, web-based logic game built with Vanilla JavaScript and CSS3.
 
-## 🚀 Live Demo
-[Insert your GitHub Pages link here]
+
 
 ## ✨ Features
 * **Dynamic Logic:** Custom Fisher-Yates shuffle algorithm for randomized gameplay.
